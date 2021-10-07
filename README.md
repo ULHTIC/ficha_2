@@ -241,3 +241,15 @@ Sem alterar absolutamente nada, submeta o ficheiro no PANDORA no contest: IC2021
 7.	Corrija os erros de compilação e submeta de novo e verifique a nota obtida.
 
 8.	O programa deverá ler um número e imprimir esse número multiplicado por 3. Verifique os resultados dos testes e observe toda a informação disponibilizada. Utilizando essa informação, altere o código e submeta de novo até obter a classificação de 20 Valores.
+
+
+## Exercício 9 - Guess the number
+Implemente uma versão do jogo Guess the Number. O programa começa por gerar um número de forma aleatória para isso deverá incluir a biblioteca `stdlib.h` e chamar a função `rand()`:
+```
+int numeroEscondido;
+
+numeroEscondido = rand();
+```
+O número gerado deverá estar entre 0 e 100, pelo que deverá fazer algo de forma a garantir isso. 
+Deverá depois pedir ao jogador que adivinhe o número. Se o utilizador acertar, o jogo acaba. Se o utilizador falhar o programa deverá informar se o número escondido é maior ou menor do que o número introduzido pelo jogador.
+O jogador deverá ter no máximo 5 tentativas, após as quais o jogo termina.
