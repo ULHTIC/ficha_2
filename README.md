@@ -1,7 +1,7 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
 
-# Ficha de Exercícios - 1 - Introdução ao VS Code e Debugger
+# Ficha de Exercícios - 2 - Introdução ao VS Code e Debugger
 
 **Objetivo:** esta ficha tem como objetivo familiarizar-se com a ferramenta VS Code e a forma de escrever, compilar e executar um programa. Irá aprender igualmente aspectos básicos do C. Finalmente, realizará um conjunto de exercícios de código C, explorando tipos de variáveis e usando as funções de leitura e escrita. 
 
